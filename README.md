@@ -38,6 +38,8 @@ https://drive.google.com/open?id=1kNp--Asphf54hccRYhEPts8hcqSJOijt
 
 1. Upload all files to Drive, redefine work_DIR in each notebook you run.
 
+2. Upload images to the pictures folder, update the train.txt file.
+
 ### Detect barcodes in images:
 
 1. Get the Trained weights file from the Drive directory (YOLO3_Barcode_Detection/qqwweee2/logs/003_1class/trained_weights_final.h5).
